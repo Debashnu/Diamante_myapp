@@ -2,27 +2,6 @@
 
 This project demonstrates the use of the Diamante SDK to perform various operations on the Diamante blockchain network, including creating accounts, making payments, managing data, and setting options.
 
-## Table of Contents
-
-- [Backend](#backend)
-  - [Installation](#installation)
-  - [Running the Project](#running-the-project)
-  - [Endpoints](#endpoints)
-    - [Create Keypair](#create-keypair)
-    - [Fund Account](#fund-account)
-    - [Make Payment](#make-payment)
-    - [Manage Data](#manage-data)
-    - [Set Options](#set-options)
-- [Frontend](#frontend)
-  - [Installation](#installation-1)
-  - [Running the Project](#running-the-project-1)
-  - [Features](#features)
-    - [Create Account](#create-account)
-    - [Payments](#payments)
-    - [Manage Data](#manage-data-1)
-    - [Set Options](#set-options)
-- [License](#license)
-
 ## Backend
 
 ### Installation
@@ -32,13 +11,13 @@ To set up the backend, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/diamcircle/diamante-js-sdk-sample
+    git clone <your repo url>
     ```
 
 2. Navigate to the backend directory and install dependencies:
 
     ```bash
-    cd diamante-js-sdk-sample/diamante-demo
+    cd diamante_myapp/di_back
     npm install
     ```
 
@@ -151,7 +130,7 @@ To set up the frontend, follow these steps:
 
 Navigate to the frontend directory and install dependencies:
 ```bash
-cd diamante-js-sdk-sample/front
+cd diamante_myapp/front
 npm install
 ```
 ### Running the Project
